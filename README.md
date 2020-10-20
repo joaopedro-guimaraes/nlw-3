@@ -1,2 +1,3 @@
 # nlw-3
-Next Level Week #3 (Rocketseat)
+Projeto realizado na terceira edição da Next Level Week.
+Evento realizado pela Rocketseat.
